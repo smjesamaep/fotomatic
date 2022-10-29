@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
