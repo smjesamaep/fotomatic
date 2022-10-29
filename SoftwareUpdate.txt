@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
