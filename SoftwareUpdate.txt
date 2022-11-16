@@ -1,1 +1,1 @@
-Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
+Fix Yolo 8.0.206 scale bug (#7821)
