@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
