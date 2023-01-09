@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
