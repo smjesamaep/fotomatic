@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
