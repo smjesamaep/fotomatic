@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+OpenVino 2024.0.0 (#8726)
