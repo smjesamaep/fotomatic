@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Resize angle, count, and stage on keypoint number change (#7598)
