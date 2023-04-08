@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
