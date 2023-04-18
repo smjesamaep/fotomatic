@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+Fix Yolo 8.0.206 scale bug (#7821)
