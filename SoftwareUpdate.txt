@@ -1,1 +1,1 @@
-fix non-coco val
+Update Colab notebook for YOLOv8.1 (#8660)
