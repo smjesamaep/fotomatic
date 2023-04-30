@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Update Colab notebook for YOLOv8.1 (#8660)
