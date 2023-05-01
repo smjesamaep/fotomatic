@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Update Colab notebook for YOLOv8.1 (#8660)
