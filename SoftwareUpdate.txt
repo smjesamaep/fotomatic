@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
