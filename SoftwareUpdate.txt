@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
