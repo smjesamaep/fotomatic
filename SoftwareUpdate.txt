@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Replacing Images for torchscript.md (#8596)
