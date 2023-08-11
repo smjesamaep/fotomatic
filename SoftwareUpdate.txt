@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Update the heatmap module code + docs (#7045)
