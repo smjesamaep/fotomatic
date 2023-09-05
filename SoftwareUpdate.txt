@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Allow Annotator PIL.Image inputs (#8397)
