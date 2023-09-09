@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
