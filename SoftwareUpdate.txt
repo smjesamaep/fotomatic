@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
