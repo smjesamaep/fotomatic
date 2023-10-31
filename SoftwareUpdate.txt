@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Rename model_id to model.id (#8447)
