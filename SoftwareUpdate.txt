@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Fix Neural Magic links (#9144)
