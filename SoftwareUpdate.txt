@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
