@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Add YOLOv8 LibTorch C++ inference example (#7090)
