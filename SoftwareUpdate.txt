@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
