@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
