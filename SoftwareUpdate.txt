@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Fix IS_PYTHON_3_12 bug (#9258)
